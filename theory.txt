@@ -1,0 +1,30 @@
+There are three way of uses Javascript-
+
+1. Inline.
+2. Internal. (Javascript- লিখা হয় মূলত html এর head এর মধ্যে...বাকী সবগুলো ঠিক CSS এর মতোই কাজ করে)
+3. External.
+
+=================Variable============
+1. Variable.
+2. Data Type.
+
+===========Way of Variable============
+1. General Way.
+2. Using let.
+3. Using Var.
+4. Using Const.
+
+============Way of Data Type============
+1. String. (Normal Word, Sentence)
+
+2. integer. (Number- Non Decimal Number- For Example- 5, 10, 15, 6, 8
+অর্থাৎ দশমিক ছাড়া ভগ্নাংশ ছাড়া সকল নাম্বার কে Ineger Number বলে। এখানে মাইনাস সংখ্যা ও থাকতে 
+পারে যেমন- -10, -5, -20, -15 etc.)
+
+3. Float. (Decimal Number- For Example- 5.20, 10.25, 15.36, 6.45, 8.565
+অর্থাৎ দশমিক যুক্ত সকল নাম্বার কে Float Number বলে। এখানে দশমিক সংখ্যা থাকবেই।)
+
+4. Double. (Decimal Number- For Example- 5.20, 10.25, 15.36, 6.45, 8.565
+অর্থাৎ দশমিক যুক্ত সকল নাম্বার কে Double Number বলে। এখানে দশমিক সংখ্যা থাকবেই।) তবে এগুলোতে কিছু দশমিকের পর 
+সংখ্যার লিমিট আছে। এগুলো পরে আলোচনা করা হবে।
+5. Boolean. (Yes/No), (True/False), অর্থাৎ- হ্যাঁ অথবা না এর উত্তরই হবে এই Boolean এর।
